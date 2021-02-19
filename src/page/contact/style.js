@@ -124,8 +124,6 @@ export const Active = styled.div`
   font-size: 20px;
   height: 55px;
   padding: 0 0 0 15px;
-  text-decoration: none;
-  text-decoration: none;
   color: #9bc321;
   &:hover {
     color: #7a9b14;
@@ -140,8 +138,6 @@ export const MenuItem = styled.div`
   padding: 0 0 0 15px !important;
   height: 55px;
   font-size: 20px;
-  text-decoration: none;
-
   &:hover {
     color: #505a63;
   }
